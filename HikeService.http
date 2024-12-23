@@ -1,0 +1,6 @@
+@HikeService_HostAddress = http://localhost:5216
+
+GET {{HikeService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
